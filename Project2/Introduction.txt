@@ -1,0 +1,2 @@
+This folder contains all the project files for Project 2 Image classification for the
+Introduction to Machine Learning using TensorFLow Nanodegree
